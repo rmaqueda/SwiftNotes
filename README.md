@@ -6,7 +6,7 @@ Apuntes sobre la lectura del libro de Apple "The Swift Programming Language (Swi
 [Web](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html#//apple_ref/doc/uid/TP40014097-CH6-ID60)
 
 ## Language Guide
-#### [The Basics](./basic.md)
+#### [The Basics](basics.md)
 #### Basic Operators
 #### Strings and Characters
 #### Collection Types
